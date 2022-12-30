@@ -1,15 +1,15 @@
-Node.js
-
-https://nodejs.org/en/download
+Node.js = https://nodejs.org/en/download
 
 
 INSTALL
 
 npm install selenium-webdriver
+
 npm install chromedriver
+
 npm install mocha
 
 
-RUN
+RUN 
 
 npm test ./tests/dashboardTests.js
