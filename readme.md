@@ -10,6 +10,3 @@ npm install mocha
 
 RUN
 npm test ./tests/dashboardTests.js
-
-"# PITON-Test-Automation-" 
-"# PITON-Test-Automation-" 
